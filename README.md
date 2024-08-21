@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ManvendraBele
 - 👀 I’m interested in Cloud and Devops
-- 🌱 I’m currently learning Ansible
-- 💞️ I’m looking to collaborate on Azure Devops / Cloud Architecture
+- 🌱 I’m currently learning some topics in Data Science 
+- 💞️ I’m looking to collaborate on Azure Devops / Cloud Architecture / Data Science
 - 📫 How to reach me .. Drop me an email at bele.manvendra11@gmail.com
 
 <!---
